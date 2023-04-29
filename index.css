@@ -1,0 +1,283 @@
+@media (max-width: 768px) {
+  .content {
+    width: 100%;
+    height: auto;
+  }
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.sign-up-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #fbeadd, #fff);
+  width: 1440px;
+  height: 1024px;
+}
+
+.sign-up-inner,
+.sign-up-item {
+  position: absolute;
+  top: 654px;
+  left: 1027px;
+  width: 580px;
+  height: 580px;
+}
+
+.sign-up-inner {
+  top: 0;
+  left: 107px;
+  width: 280px;
+  height: 280px;
+}
+
+.already-a-user {
+  text-decoration: none;
+  position: absolute;
+  top: 807px;
+  left: 625px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 291px;
+  cursor: pointer;
+}
+
+.woman-doing-yoga-2 {
+  position: absolute;
+  top: 277px;
+  left: 15px;
+  width: 610px;
+  height: 725px;
+  object-fit: cover;
+}
+
+.fname,
+.lname {
+  position: absolute;
+  box-sizing: border-box;
+}
+
+.fname {
+  border: 2px solid var(--color-saddlebrown-100);
+  font-weight: 300;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 59.45px;
+  left: 0.17px;
+  border-radius: var(--br-xl);
+  width: 286.83px;
+  height: 49.35px;
+  text-align: center;
+}
+
+.lname {
+  top: 129.8px;
+}
+
+.email,
+.lname,
+.phno {
+  border: 2px solid var(--color-saddlebrown-100);
+  font-weight: 300;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  left: 0.17px;
+  border-radius: var(--br-xl);
+  width: 286.83px;
+  height: 49.35px;
+  text-align: center;
+}
+
+.phno {
+  position: absolute;
+  top: 200.15px;
+  box-sizing: border-box;
+}
+
+.email {
+  top: 270.5px;
+}
+
+.cpass,
+.createpass,
+.email,
+.rectangle {
+  position: absolute;
+  box-sizing: border-box;
+}
+
+.createpass {
+  border: 2px solid var(--color-saddlebrown-100);
+  font-weight: 300;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 341px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 287px;
+  height: 49px;
+  text-align: center;
+}
+
+.cpass,
+.rectangle {
+  height: 49.35px;
+}
+
+.cpass {
+  border: 2px solid var(--color-saddlebrown-100);
+  font-weight: 300;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 411.2px;
+  left: 0.17px;
+  border-radius: var(--br-xl);
+  width: 286.83px;
+  text-align: Center;
+}
+
+.rectangle {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  border: 2px solid var(--color-mediumseagreen);
+  width: 140.83px;
+}
+
+.sign-up1 {
+  position: absolute;
+  top: 10.5px;
+  left: 22.75px;
+  font-size: var(--font-size-lg);
+  line-height: 27px;
+  font-weight: 600;
+  font-family: var(--font-lato);
+  color: var(--color-mediumseagreen);
+  text-align: center;
+  display: inline-block;
+  width: 96.42px;
+  height: 18.9px;
+}
+
+.signupbutton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 482px;
+  left: 65px;
+  width: 140.83px;
+  height: 49.35px;
+}
+
+.form,
+.sign-up2,
+.signupbutton {
+  position: absolute;
+}
+
+.sign-up2 {
+  top: 0;
+  left: 33px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 204px;
+  height: 38px;
+  padding: 15px;
+}
+
+.form {
+  top: 258px;
+  left: 612px;
+  width: 287px;
+  height: 531.35px;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-saddlebrown-100);
+}
+
+.p1-icon,
+.p2-icon,
+.p3-icon {
+  position: absolute;
+  border-radius: var(--br-md);
+  object-fit: cover;
+}
+
+.p3-icon {
+  top: 20px;
+  left: 1205px;
+  width: 180px;
+  height: 226px;
+  opacity: 0.8;
+}
+
+.p1-icon,
+.p2-icon {
+  top: 228px;
+  left: 1192px;
+  width: 153px;
+  height: 235px;
+}
+
+.p1-icon {
+  top: 120px;
+  left: 1027px;
+  width: 180px;
+  height: 226px;
+  opacity: 0.85;
+}
+
+.a-good-stance,
+.control-your-body {
+  position: absolute;
+  display: inline-block;
+  padding: 50px;
+}
+
+.control-your-body {
+  top: 193px;
+  left: 387px;
+  font-weight: 100;
+  font-family: var(--font-roboto);
+  color: var(--color-saddlebrown-200);
+  width: 352px;
+  padding: 46px;
+  padding-left: 3px;
+}
+
+.a-good-stance {
+  top: 3px;
+  left: 62px;
+  font-size: var(--font-size-9xl);
+  line-height: 55px;
+  font-family: var(--font-petrona);
+  color: var(--color-dimgray-200);
+  width: 742px;
+}
+
+.sign-up {
+  position: relative;
+  background-color: var(--color-darkolivegreen);
+  
+  height: 1024px;
+  
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-lato);
+}
+@media (max-width: 768px) {
+  .content {
+    width: 100%;
+    height: auto;
+  }
+}
