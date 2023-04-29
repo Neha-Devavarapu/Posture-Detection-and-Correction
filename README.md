@@ -10,7 +10,7 @@
 
   # Installations
   Flask:
-1) Install python latest version
+1) Install python latest version:
 To verify that you've installed Python successfully , run the command:
       `python`
 
